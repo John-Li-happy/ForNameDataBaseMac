@@ -1,5 +1,5 @@
 # ForNameDataBaseMac
-A demo for tableView
+A blueprint for parelling iOS project 
 
 ## Discription
 This blueprint will be deployed parellelly with my next iOS project
