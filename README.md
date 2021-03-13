@@ -1,6 +1,8 @@
 # ForNameDataBaseMac
 A blueprint for parelling iOS project 
 
+** There must be a way to create "iOS-macOS" in same platform, will also dig on it
+
 ## Discription
 This blueprint will be deployed parellelly with my next iOS project
 
