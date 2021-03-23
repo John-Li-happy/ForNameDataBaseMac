@@ -24,4 +24,6 @@ MacOS 11.2 (Fits divices after MacOS 10.1)
 
 
 # Updation:
-I have found the method of creating "iOS-macOS" in same platform, this thread will be abandoned
+I have found the method of creating "iOS-macOS" in same platform, besides of the constriants, the design is as same as iOS developing.
+
+This thread will continue going on.
